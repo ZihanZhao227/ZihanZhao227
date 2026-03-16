@@ -77,7 +77,7 @@
 
 <div align="center">
   <h3>🧊 3D Contribution Graph</h3>
-  <img alt="Zihan's 3D GitHub Contribution Graph" src="https://raw.githubusercontent.com/ZihanZhao227/ZihanZhao227/output/dist/profile-3d-contrib.svg" />
+  <img alt="Zihan's 3D GitHub Contribution Graph" src="https://raw.githubusercontent.com/ZihanZhao227/ZihanZhao227/main/profile-3d-contrib/profile-night-view.svg" />
 </div>
 
 ---
