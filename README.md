@@ -85,8 +85,8 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:[zhaoziran27@163.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" /></a>
-  <a href="[https://www.linkedin.com/in/hannah-zhao-711769232/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:zhaoziran27@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hannah-zhao-711769232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" /></a>
 </div>
 
 ---
