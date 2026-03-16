@@ -12,6 +12,7 @@
 
 </div>
 
+
 <br/>
 
 ## 👨🏻‍💻 About Me
@@ -51,6 +52,7 @@
   <a href="https://linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="40"></a>
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="40"></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" height="40"></a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="40"></a>
 </p>
 
 ### Frameworks (check from project scope)
