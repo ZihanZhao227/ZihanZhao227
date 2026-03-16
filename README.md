@@ -39,12 +39,11 @@
 <p align="left">
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" height="40"></a>
   <a href="https://tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" height="40"></a>
-  <a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy" height="40"></a>
-  <a href="https://pandas.pydata.org"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" height="40"></a>
-  <a href="https://matplotlib.org"><img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib" height="40"></a>
+  <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" alt="NumPy"></a>
+  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Pandas"></a>
+  <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-31393C?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" alt="Matplotlib"></a>
   <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="Scikit-Learn"></a>
 </p>
-
 ### DevOps & Tools
 <p align="left">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="40"></a>
