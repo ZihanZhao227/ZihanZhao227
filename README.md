@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ZihanZhao227">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Zihan!+👋;Purdue+CS+%2B+AI+Senior;Passionate+about+ML/DL+%26+Development;Seeking+2026+Spring+SDE+%2F+MLE+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Zihan!+👋;Purdue+CS+%2B+AI+Senior;Passionate+about+ML/DL+%26+Development;Seeking+2026+Spring+SDE+%2F+MLE+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
