@@ -67,9 +67,9 @@
 <div align="center">
   <h3>🐍 My GitHub Contributions Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_MODE_RAW_URL">
-    <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_MODE_RAW_URL">
-    <img alt=" alt text" src="YOUR_LIGHT_MODE_RAW_URL">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZihanZhao227/ZihanZhao227/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZihanZhao227/ZihanZhao227/output/github-contribution-grid-snake.svg">
+    <img alt="Zihan's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ZihanZhao227/ZihanZhao227/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
