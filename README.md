@@ -18,7 +18,7 @@
 ## 👨🏻‍💻 About Me
 
 * 🎓 **Education:** Pursuing a dual degree in **Computer Science & Artificial Intelligence** at Purdue University (Expected Spring 2026).
-* 🎯 **Goal:** Seeking Spring 2026 SDE/MLE internships.
+* 🎯 **Goal:** Seeking Summer 2026 SDE/MLE internships/Fulltime job.
 * 💡 **Focus:** Machine Learning, Deep Learning, & Full-Stack Development.
 * 🪸 **Interests:** Baking 🍮, Reading 📖, Travel 🏝️
 * 📫 **Reach me:** [zhaoziran27@163.com / https://www.linkedin.com/in/hannah-zhao-711769232/]
